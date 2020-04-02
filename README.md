@@ -1,16 +1,10 @@
-# i_am_poor
+# flutter-i-am-rich
+My first app using Flutter
 
-A new Flutter application.
+Just a simple app with a simple appbar and showing a picture of a coal when launched.
 
-## Getting Started
+<img src="https://github.com/robertos95/flutter-i-am-poor/blob/master/screenshots/Screenshot_app.jpg?raw=true" width="300px">
 
-This project is a starting point for a Flutter application.
+Icons updated to coal picture too.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/robertos95/flutter-i-am-poor/blob/master/screenshots/Screenshot_icon.jpeg?raw=true" width="300px">

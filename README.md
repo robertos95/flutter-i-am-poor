@@ -1,5 +1,5 @@
-# flutter-i-am-rich
-My first app using Flutter
+# flutter-i-am-poor
+My 2nd app using Flutter
 
 Just a simple app with a simple appbar and showing a picture of a coal when launched.
 
